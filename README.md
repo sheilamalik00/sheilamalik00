@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sheilamalik00
+- 👋 Hi, I’m Sheila Zahra Malik
 - 👀 I’m interested in SQA and Data Analysis
 - 🌱 I’m currently learning about automation testing, Python and Javascript
 - 📝 I regularly write an articles on https://medium.com/@sheilazahramalik
