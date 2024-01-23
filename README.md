@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sheila Zahra Malik
-- 👀 I’m interested in SQA and Data Analysis
-- 🌱 I’m currently learning about automation testing, Python and Javascript
+- 👀 I’m interested in SQA Automation, Product Management and Data Analysis
+- 🌱 I’m currently learning about automation testing, Javascript and Product Management
 - 📝 I regularly write an articles on https://medium.com/@sheilamalik00
 - 🚶‍♀️ I share about my experience on https://www.linkedin.com/in/sheilamalik00/
 - 📫 How to reach me, you can reach me at sheilamalik@outlook.com
